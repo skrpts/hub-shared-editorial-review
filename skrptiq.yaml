@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "7bf48bd4-83cb-4007-9214-e76c5eb02c15"
+id: "5b090c06-844a-469a-84a4-e7ec83d05394"
 name: "editorial-review"
 display_name: "Editorial Review"
 description: "Evaluates a blog post against measurable quality criteria and produces a structured verdict"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
